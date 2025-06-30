@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋 I'm AlanKSorata
 
-<!--
-**AlanKSorata/AlanKSorata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm an ordinary Coder. My journey in the world of Programming has been filled with exciting challenges and learning opportunities, and I'm always ready to explore new horizons.
 
-Here are some ideas to get you started:
+## What I'm Currently Up To
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Learning
+I'm constantly expanding my knowledge. Currently, I'm diving deep into Rust Dev, which I believe will open up new possibilities in my work. Whether it's mastering a new programming language or understanding complex algorithms, I'm always up for the challenge.
+
+## My GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanKSorata&show_icons=true&theme=radical)
+
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanKSorata&layout=compact&theme=radical)
