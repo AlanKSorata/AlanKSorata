@@ -8,8 +8,5 @@ I'm an ordinary Coder. My journey in the world of Programming has been filled wi
 ### 🌱 Learning
 I'm constantly expanding my knowledge. Currently, I'm diving deep into Rust Dev, which I believe will open up new possibilities in my work. Whether it's mastering a new programming language or understanding complex algorithms, I'm always up for the challenge.
 
-## My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanKSorata&show_icons=true&theme=radical)
-
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanKSorata&layout=compact&theme=radical)
